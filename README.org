@@ -1,0 +1,10 @@
+* monomyth
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/smaller-infinity/monomyth.git   |
+| commit  | {"messa  |
+| systems | monomyth |
+|---------+-------------------------------------------|
+
