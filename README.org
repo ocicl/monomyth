@@ -3,8 +3,9 @@
 Monomyth is a distributed data processing system built using Common Lisp and
 based heavily on Broadway.
 
+
 |---------+------------------------------------------------------|
 | source  | git:https://gitlab.com/smaller-infinity/monomyth.git |
-| commit  | d0427c988a01affac235b74926dfead95a5fa90d             |
+| commit  | d0427c9                                              |
 | systems | monomyth                                             |
 |---------+------------------------------------------------------|
